@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\obj\Debug\net6.0\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\obj\Debug\net6.0\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\obj\Debug\net6.0\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\obj\Debug\net6.0\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa.AssemblyInfo.cs
+C:\Users\user\source\repos\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\obj\Debug\net6.0\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\bin\Debug\net6.0\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa.exe
+C:\Users\user\source\repos\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\bin\Debug\net6.0\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa.deps.json
+C:\Users\user\source\repos\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\bin\Debug\net6.0\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa.runtimeconfig.json
+C:\Users\user\source\repos\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\bin\Debug\net6.0\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa.dll
+C:\Users\user\source\repos\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\bin\Debug\net6.0\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa.pdb
+C:\Users\user\source\repos\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\obj\Debug\net6.0\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa.dll
+C:\Users\user\source\repos\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\obj\Debug\net6.0\refint\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa.dll
+C:\Users\user\source\repos\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\obj\Debug\net6.0\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa.pdb
+C:\Users\user\source\repos\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\obj\Debug\net6.0\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa.genruntimeconfig.cache
+C:\Users\user\source\repos\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa\obj\Debug\net6.0\ref\pragmmmmmmaaaaaaaaaaaaaaaaaaaaa.dll
